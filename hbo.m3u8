@@ -4,3 +4,9 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nFc1r7T9QCWANgrtg2RGnA","k":"Eo1V2awrR62F+GtdCDIBeQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="http://channelogo.com/logo.jpg" group-title="Live Channel",Channel 1
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="VVIP Score" tvg-logo="" group-title="Sports",VVIP Score
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+#EXTVLCOPT:http-referrer=https://vvipscore.co/
+https://cdn2.googlecdnforstreaming.live/vvipscore/tsp2/chunks.m3u8
